@@ -10,16 +10,16 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['621256023873','6281256023873','6281256023873']
+global.premium = ['6281256023873']
+global.ownernomer = '6281256023873'
+global.ownername = 'Call Me Riss'
+global.botname = '༄RISS BOTZ࿐'
+global.footer = '༄RISS࿐'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
+global.packname = '©༄RISS BOTZ࿐'
 global.author = '2022'
 global.sp = '⭔'
 
