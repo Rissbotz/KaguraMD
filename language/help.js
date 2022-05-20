@@ -406,7 +406,7 @@ exports.menusimpel = (botname, pushname, salam, ownername, time, tanggal) => {
 	return`Selamat *${salam}* ${pushname} 👋
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
+  👑 Creator : *RISS BOTZ*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
