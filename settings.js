@@ -10,7 +10,7 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['621256023873','6281256023873','6281256023873']
+global.owner = ['6281256023873','6281256023873','6281256023873']
 global.premium = ['6281256023873']
 global.ownernomer = '6281256023873'
 global.ownername = 'Call Me Riss'
@@ -20,15 +20,15 @@ global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
 global.packname = '©༄RISS BOTZ࿐'
-global.author = '2022'
+global.author = 'RISS BOTZ'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.youtube = 'https://youtube.com/channel/UCx2gLWmH0M4QD-KSwOX17mQ'
+global.ig = 'https://www.instagram.com/hy.riss02?r=nametag'
+global.mygc = 'https://chat.whatsapp.com/E5lPT7myQ8xFe5tLoR2GY7'
+global.myweb = 'https://www.instagram.com/hy.riss02?r=nametag'
+global.email = 'tata85119@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
