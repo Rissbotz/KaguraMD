@@ -4,7 +4,7 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
+  👑 Creator : *RISS BOTZ*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -468,22 +468,14 @@ Berapapun donasi kalian akan sangat berarti 👍
 
 Thanks!
 
-—————「 *SEWA | RUN BOT* 」—————
+—————「 *SEWABOT* 」—————
 
   *_SEWA BOT_* 
-  *❏* Sewa Bot 15k (1 minggu)
-  *❏* Sewa Bot 20k (1 bulan)
+  *❏* Sewa Bot 5k (1 minggu)
+  *❏* Sewa Bot 10k (1 bulan)
   *❏* Sewa Bot 25k (Permanen)
 
-  *JADI BOT* 
-  *❏* Jadi Bot 15k Tidak Owner (1 minggu)
-  *❏* Jadi Bot + Owner 20k (1 bulan)
-  *❏* Jadi Bot + Owner 25k (Permanen)
-
-  *JASA RUN BOT*
-  *❏* Run Bot 15k (1 minggu)
-  *❏* Run Bot 20k (1 bulan)
-  *❏* Run Bot 25k (Permanen)
+  
 
   *Minat? Langsung chat aja ya cuy 🐦*
 
